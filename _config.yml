@@ -2,10 +2,13 @@ url: https://python-frederick.github.io
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: Python Frederick
+email: python-frederick-list@meetup.com
+description: >-
+  Python Frederick is a Python User Group located in Frederick, MD.
+  We aim to grow the technology community in the NW Washington, DC area
+  for a better understanding of the Python programming language
+  and its ecosystem.
 
 # Team names, titles and social links
 people:
