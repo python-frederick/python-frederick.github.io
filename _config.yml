@@ -23,27 +23,27 @@ people:
     - title: meetup
       url: https://www.meetup.com/python-frederick/members/187877491/
 
-- name: Larry Parker
+- name: Patrick Pierson
   pic: 2
-  position: Lead Marketer
+  position: Co-Organizer
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: linkedin
-      url: #
+    - title: meetup
+      url: https://www.meetup.com/python-frederick/members/171706482/
 
-- name: Diana Petersen
+- name: Luguene
   pic: 3
-  position: Lead Developer
+  position: Co-Organizer
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - title: meetup
+      url: https://www.meetup.com/python-frederick/members/3763715/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
