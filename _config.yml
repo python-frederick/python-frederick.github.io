@@ -45,6 +45,18 @@ people:
     - title: meetup
       url: https://www.meetup.com/python-frederick/members/3763715/
 
+- name: Christine Lee
+  pic: 4
+  position: Co-Organizer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: meetup
+      url: https://www.meetup.com/python-frederick/members/182962638/
+
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
