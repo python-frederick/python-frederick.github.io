@@ -34,8 +34,19 @@ people:
     - title: meetup
       url: https://www.meetup.com/python-frederick/members/171706482/
 
-- name: Luguene
+- name: Chris Malone
   pic: 3
+  position: Co-Organizer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: meetup
+      url: https://www.meetup.com/python-frederick/members/206255812/
+
+- name: Luguene
+  pic: 4
   position: Co-Organizer
   social:
     - title: twitter
@@ -46,7 +57,7 @@ people:
       url: https://www.meetup.com/python-frederick/members/3763715/
 
 - name: Christine Lee
-  pic: 4
+  pic: 5
   position: Co-Organizer
   social:
     - title: twitter
@@ -66,7 +77,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/PythonFrederick/
   - title: meetup
-    url: https://www.meetup.com/
+    url: https://www.meetup.com/python-frederick/
 
 # Postal address (add as many lines as necessary)
 address:
