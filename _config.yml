@@ -12,14 +12,39 @@ description: >-
 
 # Team names, titles and social links
 people:
+- name: Chris Malone
+  pic: 3
+  position: Co-Organizer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/Christopher.G.Malone
+    - title: meetup
+      url: https://www.meetup.com/python-frederick/members/206255812/
+
+- name: Christine Lee
+  pic: 5
+  position: Co-Organizer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/cnl1702
+    - title: meetup
+      url: https://www.meetup.com/python-frederick/members/182962638/
+
+- name: Lugene
+  pic: 4
+  position: Co-Organizer
+  social:
+    - title: meetup
+      url: https://www.meetup.com/python-frederick/members/3763715/
+
 - name: Matt Layman
   pic: 1
   position: Lead Organizer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/mblayman
     - title: facebook
-      url: #
+      url: https://www.facebook.com/matthewlayman
     - title: meetup
       url: https://www.meetup.com/python-frederick/members/187877491/
 
@@ -28,45 +53,11 @@ people:
   position: Co-Organizer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/pierson_pat
     - title: facebook
-      url: #
+      url: https://www.facebook.com/ihasn
     - title: meetup
       url: https://www.meetup.com/python-frederick/members/171706482/
-
-- name: Chris Malone
-  pic: 3
-  position: Co-Organizer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: meetup
-      url: https://www.meetup.com/python-frederick/members/206255812/
-
-- name: Lugene
-  pic: 4
-  position: Co-Organizer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: meetup
-      url: https://www.meetup.com/python-frederick/members/3763715/
-
-- name: Christine Lee
-  pic: 5
-  position: Co-Organizer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: meetup
-      url: https://www.meetup.com/python-frederick/members/182962638/
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
