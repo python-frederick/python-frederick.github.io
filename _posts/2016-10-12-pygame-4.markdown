@@ -8,8 +8,14 @@ img: pygame-logo.png
 thumbnail: pygame-logo-thumbnail.png
 alt: image-alt
 project-date: October 2016
-client: Start Bootstrap
+client: Hood College
 category: Game Development
-description: pygame is a free and open source python programming language library for making multimedia applications like games built on top of the SDL library. Like SDL, pygame is highly portable and runs on nearly every platform and operating system.
+description: >-
+  At this event,
+  we played games and learned how to make them using our favorite programming language, Python.
+  Using the pygame library,
+  Joe Naegele showed the group the techniques that are needed to make 2D games.
+  We looked at some examples of popular games made with Python
+  and had some live code samples to experience game development firsthand.
 
 ---

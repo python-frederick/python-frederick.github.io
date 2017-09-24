@@ -1,6 +1,6 @@
 ---
 title: Django Channels
-subtitle: Website Design
+subtitle: WebSockets and Python
 layout: default
 modal-id: 3
 date: 2016-12-14
@@ -8,8 +8,13 @@ img: django-logo.png
 thumbnail: django-logo-thumbnail.png
 alt: image-alt
 project-date: December 2016
-client: Start Bootstrap
+client: Cowork Frederick
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: >-
+  Jeremy Carbaugh covered the how and why of using WebSockets
+  with the Django web framework.
+  After explaining the architecture of Django's WebSockets library, Django Channels,
+  Jeremy described how he used the feature to build the
+  <a href="https://pycon.guide/">PyCon Guide</a>.
 
 ---

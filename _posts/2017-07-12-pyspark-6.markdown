@@ -10,6 +10,12 @@ alt: image-alt
 project-date: July 2017
 client: Hood College
 category: Big Data
-description: Patrick Pierson, DevOps Engineer at Ion Channel, walked through a live deployment of Pyspark using Amazon Elastic Map Reduce (EMR). He guided a captive audience through all the steps to process TBs of data in minutes. Finally, Patrick scaled up the number of virtural machines with no downtime-all within Pyspark! Patrick's presentation and repository can be found at https://github.com/python-frederick/pyspark.
+description: >-
+  Patrick Pierson, DevOps Engineer at Ion Channel, walked through a live deployment of Pyspark
+  using Amazon Elastic Map Reduce (EMR).
+  He guided a captive audience through all the steps to process terabytes of data in minutes.
+  Finally, Patrick scaled up the number of virtual machines with no downtime-all within Pyspark!
+  Patrick's presentation and repository can be found at
+  <a href="https://github.com/python-frederick/pyspark">https://github.com/python-frederick/pyspark</a>.
 
 ---

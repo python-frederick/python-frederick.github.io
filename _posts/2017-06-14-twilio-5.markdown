@@ -9,7 +9,13 @@ thumbnail: twilio-logo-thumbnail.png
 alt: image-alt
 project-date: June 2017
 client: Start Bootstrap
-category: Web Development
-description: Matt Makai led a live demonstration of many Twilio SMS and voice services using Python. Walking through selecting a phone number and deploying a service, everyone could participate in the group text and conference call. Along with the services from Twilio, Matt covered his open source python resource "Full Stack Python." https://www.fullstackpython.com not only contains great resources for learning about the Python ecosystem, Matt also writes a blog walking through various projects leveraging both Python and Twilio.   
+category: Web Services
+description: >-
+  Matt Makai led a live demonstration of many Twilio SMS and voice services using Python.
+  Walking through selecting a phone number and deploying a service,
+  everyone could participate in the group text and conference call.
+  Along with the services from Twilio,
+  Matt covered his open source Python resource <a href="https://www.fullstackpython.com">Full Stack Python</a>.
+  Matt also writes a blog walking through various projects leveraging both Python and Twilio.
 
 ---

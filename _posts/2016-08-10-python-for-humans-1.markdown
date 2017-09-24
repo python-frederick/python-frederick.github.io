@@ -8,8 +8,13 @@ img: python-for-humans.png
 thumbnail: python-for-humans-thumbnail.png
 alt: image-alt
 project-date: August 2016
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Hood College
+category: Software Design
+description: >-
+  Kenneth Reitz came into town and discussed his philosophies around
+  designing software fit for humans.
+  He focused on making APIs that are a joy to use
+  to encourage people to produce great things.
+  Check out his slides on his <a href="https://www.kennethreitz.org/python-for-humans/">site</a>.
 
 ---
