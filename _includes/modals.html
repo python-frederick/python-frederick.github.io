@@ -14,13 +14,20 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% if post.youtube %}
+                              <iframe width="560" height="315" src="{{ post.youtube }}" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                            {% else %}
+                              <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Location: <strong>{{ post.client }}</strong></li>
+                                <li>Location: <strong>{{ post.location }}</strong></li>
                                 <li>Date: <strong>{{ post.project-date }}</strong></li>
                                 <li>Category: <strong>{{ post.category }}</strong></li>
                             </ul>
+                            {% if post.material %}
+                              <p><a href="{{ post.material }}" target="_blank">See presentation material</a></p>
+                            {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

@@ -8,7 +8,7 @@ img: HackFrederick.png
 thumbnail: HackFrederick-thumbnail.png
 alt: image-alt
 project-date: October 2016
-client: Hood College
+location: Hood College
 category: Community Development
 description: >-
   This was an event conceived by a number of the Technology Meetup Leaders of the Frederick area.

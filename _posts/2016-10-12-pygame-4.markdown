@@ -8,7 +8,7 @@ img: pygame-logo.png
 thumbnail: pygame-logo-thumbnail.png
 alt: image-alt
 project-date: October 2016
-client: Hood College
+location: Hood College
 category: Game Development
 description: >-
   At this event,
@@ -17,5 +17,6 @@ description: >-
   Joe Naegele showed the group the techniques that are needed to make 2D games.
   We looked at some examples of popular games made with Python
   and had some live code samples to experience game development firsthand.
+material: https://github.com/python-frederick/talks/tree/master/2016-10-pygame
 
 ---

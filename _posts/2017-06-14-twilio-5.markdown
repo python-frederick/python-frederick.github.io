@@ -8,7 +8,7 @@ img: twilio-logo.png
 thumbnail: twilio-logo-thumbnail.png
 alt: image-alt
 project-date: June 2017
-client: Start Bootstrap
+location: Hood College
 category: Web Services
 description: >-
   Matt Makai led a live demonstration of many Twilio SMS and voice services using Python.

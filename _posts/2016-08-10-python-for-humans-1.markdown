@@ -8,7 +8,7 @@ img: python-for-humans.png
 thumbnail: python-for-humans-thumbnail.png
 alt: image-alt
 project-date: August 2016
-client: Hood College
+location: Hood College
 category: Software Design
 description: >-
   Kenneth Reitz came into town and discussed his philosophies around
