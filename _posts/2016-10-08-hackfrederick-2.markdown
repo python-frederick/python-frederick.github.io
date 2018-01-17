@@ -4,8 +4,8 @@ subtitle: Frederick's First Organized Hackathon
 layout: default
 modal-id: 1
 date: 2016-10-08
-img: HackFrederick.png
-thumbnail: HackFrederick-thumbnail.png
+img: HackFrederick.jpeg
+thumbnail: HackFrederick-thumbnail.jpeg
 alt: image-alt
 project-date: October 2016
 location: Hood College
