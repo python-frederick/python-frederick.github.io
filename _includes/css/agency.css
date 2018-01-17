@@ -214,6 +214,7 @@ fieldset[disabled] .btn-xl.active {
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
+    text-shadow: 0px 1px 1px #5c553d;
 }
 
 .navbar-default .nav li a:hover,
@@ -289,6 +290,7 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    text-shadow: 0px 1px 2px #5c553d;
 }
 
 header .intro-text .intro-heading {
@@ -298,6 +300,7 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    text-shadow: 0px 1px 2px #5c553d;
 }
 
 @media(min-width:768px) {
