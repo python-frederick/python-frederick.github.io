@@ -178,6 +178,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    text-shadow: 0px 1px 1px #5c553d;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -278,6 +279,9 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
+header.resources {
+    background-image: url('{{ site.baseurl }}/img/header-resources-bg.jpg');
+}
 
 header .intro-text {
     padding-top: 100px;
@@ -307,6 +311,10 @@ header .intro-text .intro-heading {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
+    }
+    header.resources .intro-text {
+        padding-top: 200px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
